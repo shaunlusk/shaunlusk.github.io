@@ -9,5 +9,13 @@ a {
 }
 
 .C64Style {
-    font-family:monospace;;
+    font-family:monospace;
+}
+
+.subtext {
+  color: #AAAAAA;
+}
+
+.subtext a {
+  color : #60BBBB;
 }
