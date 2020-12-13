@@ -19,3 +19,8 @@ a {
 .subtext a {
   color : #60BBBB;
 }
+
+.content {
+  margin: auto;
+  width: 800px;
+}
